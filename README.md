@@ -6,3 +6,8 @@ A SPA has been developed implementing Angular CRUD operations. This project was 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+## CODE SNIPPETS
+
+
+## OUTPUT
+
