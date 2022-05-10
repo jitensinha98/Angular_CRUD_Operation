@@ -37,7 +37,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/Homepage.PNG)
 
 #### <ins>Add Data</ins>
+
+![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/Homepage.PNG)
+
 #### <ins>Delete Data</ins>
 #### <ins>Update Data</ins>
-
+#### <ins>View Data</ins>
 
