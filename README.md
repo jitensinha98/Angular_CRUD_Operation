@@ -55,7 +55,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 #### <ins>Update Data</ins>
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/edit_Niteen.PNG)
+
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/niteen_sinha_edit_details.PNG)
+
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/successful_updation.PNG)
+
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/post_updation.PNG)
 
