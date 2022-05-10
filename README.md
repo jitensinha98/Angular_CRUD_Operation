@@ -2,6 +2,8 @@
 
 A SPA has been developed implementing Angular CRUD operations. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
+## About the application
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
@@ -31,6 +33,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Output Screenshots
 
 #### <ins>Homepage</ins>
+
+![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/Homepage.PNG)
+
 #### <ins>Add Data</ins>
 #### <ins>Delete Data</ins>
 #### <ins>Update Data</ins>
