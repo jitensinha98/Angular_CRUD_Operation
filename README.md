@@ -3,6 +3,7 @@
 A SPA has been developed implementing Angular CRUD operations. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## About the application
+This repository contains the HTML,CSS and typescript code for a Single Page Application(SPA) which implements create, read, update and delete (CRUD) operations using Angular.
 
 ## Development server
 
@@ -19,6 +20,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/app.component.ts/delete_val.PNG)
 
 #### <ins>modal-component.component.ts</ins>
+
+This is the function for a button click event that will open a modal popup form to enter details.
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/modal-component.component.ts/submit.PNG)
 
