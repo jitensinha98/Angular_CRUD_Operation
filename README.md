@@ -16,13 +16,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/app.component.ts/delete_val.PNG)
 
-### modal-component.component.ts
+#### <ins>modal-component.component.ts</ins>
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/modal-component.component.ts/submit.PNG)
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/modal-component.component.ts/close.PNG)
 
-### edit-component.component.ts
+### <ins>edit-component.component.ts</ins>
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/edit-component.component.ts/update.PNG)
 
