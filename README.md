@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Code Snippets
 
-### <ins>app.component.ts</ins>
+#### <ins>app.component.ts</ins>
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/app.component.ts/showform.PNG)
 
@@ -22,7 +22,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/modal-component.component.ts/close.PNG)
 
-### <ins>edit-component.component.ts</ins>
+#### <ins>edit-component.component.ts</ins>
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/edit-component.component.ts/update.PNG)
 
