@@ -57,15 +57,23 @@ This is the function for a button click event that will close the modal popup.
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/Form_Validation.PNG)
 
+Form validation is implemented to avoid submission of invalid data object.
+
 #### <ins>View Data</ins>
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/View_Data.PNG)
+
+This is developed using MAT DIIALOG TABLE in angular with inline action buttons for update and delete.
 
 #### <ins>Delete Data</ins>
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/delete_sumit_sinha.PNG)
 
+Here we will be deleting the data with Name Sumit Sinha.
+
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/post_sumit_sinha_delete.PNG)
+
+As you can see , the data is successfully deleted from the table.
 
 #### <ins>Update Data</ins>
 
@@ -75,5 +83,9 @@ This is the function for a button click event that will close the modal popup.
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/successful_updation.PNG)
 
+Here data updation of a specific array object is being done . Only Phone attribute is freezed , other than that all data can be edited.
+
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/SPA_Demo_Images/post_updation.PNG)
+
+As you can see ,  the data is updated successfully in the MAT table.
 
