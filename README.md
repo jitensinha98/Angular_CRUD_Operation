@@ -13,15 +13,19 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 #### <ins>app.component.ts</ins>
 
+This is the function for a button click event that will open a modal popup form to enter details.
+
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/app.component.ts/showform.PNG)
 
+This is the function for a button click event that will open a modal popup form with row data in input textbox for the purpose of Updating.
+
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/app.component.ts/edit_val.PNG)
+
+This is the function for a button click event that will perform deleting of specific object from the Datasource object array.
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/app.component.ts/delete_val.PNG)
 
 #### <ins>modal-component.component.ts</ins>
-
-This is the function for a button click event that will open a modal popup form to enter details.
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/modal-component.component.ts/submit.PNG)
 
