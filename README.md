@@ -1,6 +1,6 @@
 # InQubeAssignment
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+A SPA has been developed implementing Angular CRUD operations. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## Development server
 
