@@ -21,19 +21,27 @@ This is the function for a button click event that will open a modal popup form 
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/app.component.ts/edit_val.PNG)
 
-This is the function for a button click event that will perform deleting of specific object from the Datasource object array.
+This is the function for a button click event that will perform deletion of specific object from the Datasource object array.
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/app.component.ts/delete_val.PNG)
 
 #### <ins>modal-component.component.ts</ins>
 
+This is the function for a button click event that will send data to the parent component for further processing using the close() function.
+
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/modal-component.component.ts/submit.PNG)
+
+This is the function for a button click event that will close the modal popup.
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/modal-component.component.ts/close.PNG)
 
 #### <ins>edit-component.component.ts</ins>
 
+This is the function for a button click event that will send data to the parent component for further processing using the close() function.
+
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/edit-component.component.ts/update.PNG)
+
+This is the function for a button click event that will close the modal popup.
 
 ![alt text](https://github.com/jitensinha98/Angular_CRUD_Operation/blob/main/Documentation-images/edit-component.component.ts/close.PNG)
 
