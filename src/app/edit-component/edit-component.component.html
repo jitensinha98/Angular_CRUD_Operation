@@ -1,0 +1,27 @@
+
+<fieldset>
+    <form #AddForm="ngForm" (ngSubmit) = "submit(AddForm.value)">
+        <legend>Edit User Details</legend>
+        <br>
+        <label class="mandatory">NAME</label>
+        <input required type="text" class="input_components" name="name" #name_text ="ngModel" id="name_text" [(ngModel)] = "name">
+        <div class = "alert" *ngIf="name_text.touched && !name_text.valid">Required Field</div><br><br>
+        <label class="mandatory">COUNTRY</label>
+        <input required type="text" class="input_components" name="country" #country_text = "ngModel" id="country_text" [(ngModel)] = "country">
+        <div class = "alert" *ngIf="country_text.touched && !country_text.valid">Required Field</div><br><br>
+        <label class="mandatory">CITY</label>
+        <input required type="text" class="input_components" name="city" #city_text = "ngModel" id="city_text" [(ngModel)] = "city">
+        <div class = "alert" *ngIf="city_text.touched && !city_text.valid">Required Field</div><br><br>
+        <label class="mandatory">PHONE</label>
+        <input required type="text" class="input_readonly_component" name="phone" #contact_text = "ngModel" id="contact_text" [(ngModel)] = "phone" [readonly]="true">
+        <div class = "alert" *ngIf="contact_text.touched && !contact_text.valid">Required Field</div><br><br>
+        <label class="mandatory">SEX</label>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input required type="radio" id="sex"  name="sex" value="Male" [(ngModel)] = "sex">    
+        <label>Male</label> &nbsp;
+        <input required type="radio" id="sex"  name="sex" value="Female" [(ngModel)] = "sex">    
+        <label>Female</label> <br> <br>
+        <Button class="button_submit" type="submit" [disabled]="!AddForm.valid">SAVE</Button>
+    </form><br>
+        <Button class="button_close" (click) = "closeform()" >CLOSE</Button><br><br>
+    </fieldset>
+    
