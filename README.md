@@ -30,6 +30,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Output Screenshots
 
-### edit-component.component.ts
+#### <ins>Homepage</ins>
+#### <ins>Add Data</ins>
+#### <ins>Delete Data</ins>
+#### <ins>Update Data</ins>
 
 
